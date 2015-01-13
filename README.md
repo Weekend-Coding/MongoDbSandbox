@@ -1,2 +1,1 @@
-# MongoDbSandbox
-Starting up MongoDB
+# Cliffs Notes MongoDb
